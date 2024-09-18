@@ -2,10 +2,14 @@
 A simple math quiz game console application in C++ that challenges users with various math questions. Players can choose the difficulty level, type of operations, and number of questions. After completing the quiz, they can see their results and decide whether to play again.
 
 ## Table of Contents
+- [Project Information](#Project-Information)
 - [Live Demo](#Live-Demo)
 - [Features](#features)
 - [How It Works](#how-it-works)
 - [Game Flow](#game-flow)
+
+## Project Information
+This math quiz game project was created at the end of the 5th course from the [Roadmap for General Foundation in Programming](https://programmingadvices.com/p/00316b1111) at [Programming Advices](https://programmingadvices.com/).
 
 ## Live Demo
 https://github.com/user-attachments/assets/a81b08dd-3952-445e-8cab-016e57f9216a
