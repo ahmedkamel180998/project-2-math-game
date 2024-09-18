@@ -9,7 +9,7 @@ A simple math quiz game console application in C++ that challenges users with va
 - [Game Flow](#game-flow)
 
 ## Project Information
-This math quiz game project was created at the end of the [5th course](https://programmingadvices.com/p/00316b1111) from the Roadmap for General Foundation in Programming at [Programming Advices](https://programmingadvices.com/).
+This math quiz game project was created at the end of the [5th course](https://programmingadvices.com/p/00316b1111) from the Roadmap for General Foundation in Programming @ [Programming Advices](https://programmingadvices.com/).
 
 ## Live Demo
 https://github.com/user-attachments/assets/a81b08dd-3952-445e-8cab-016e57f9216a
